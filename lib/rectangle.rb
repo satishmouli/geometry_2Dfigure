@@ -6,6 +6,6 @@ class Rectangle
   end
 
   def perimeter
-    [0, 0, 8040]
+    [0, 0, 2 * (@length + @breadth)]
   end
 end
